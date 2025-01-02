@@ -2,13 +2,6 @@
 
 Welcome to the **HTML** repository! This repository contains various HTML files that demonstrate different layouts and components, such as buttons, text styles, and web page designs. These examples showcase how to structure basic HTML pages with essential UI elements.
 
-## Table of Contents
-
-- [HTML Files Included](#html-files-included)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## HTML Files Included
 
 This repository includes the following HTML files:
